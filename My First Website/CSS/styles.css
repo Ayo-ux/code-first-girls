@@ -1,0 +1,31 @@
+h1 {color:white
+}
+h2 {color:pink}
+
+h3{color:black
+}
+
+body{
+background-color:#ebe4ea;
+}
+
+div#main{
+background-color:white;
+width:75%
+}
+
+div#title{
+  text-align: center;
+  width:75%;
+  background-color:purple;
+}
+
+
+  div#container{
+    background-color:white}
+
+  div.section{
+  color:black;
+  background-color:white;
+  font-size:33%;
+  float:left;}
